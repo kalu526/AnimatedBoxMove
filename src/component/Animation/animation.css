@@ -1,0 +1,31 @@
+.animation{
+    width:400px;
+    height:600px;
+    background-color: darkmagenta;
+    margin:auto;
+    
+}
+.button{
+    padding:30px;
+}
+.button button{
+    background-color: gold;
+    border:none;
+    outline:none;
+    width:70px;
+    height:30px;
+    font-weight: bold;
+    cursor:pointer;
+}
+.box{
+    padding:30px;
+}
+.box p{
+    background:rgb(196, 19, 19);
+    width:100px;
+    height:60px;
+    margin:auto;
+    margin-bottom: 100px;
+    padding-top:30px;
+    font-weight: bold;
+}
